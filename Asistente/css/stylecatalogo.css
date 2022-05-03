@@ -1,0 +1,25 @@
+h1{
+    color:antiquewhite;
+}
+footer{
+    color: blanchedalmond;
+}
+.tabla{
+    margin: auto;
+}
+.tabla td{
+    border: 15px;
+}
+.btnmas{
+    background-color: rgb(68, 65, 71);
+    color:azure;
+    border: 3px double red;
+}
+.btn-primary:focus{
+    background-color: rgb(55, 9, 107);
+    border: rgb(0, 0, 0);
+}
+.btn-primary{
+    background-color: rgb(68, 65, 71);
+    border: rgb(0, 0, 0);
+}
